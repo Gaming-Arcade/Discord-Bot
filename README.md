@@ -6,7 +6,7 @@ Much code for some backend or frontend will not be included.
 
 This repository is freely avaiable and can be used by everyone.
 
-# Discord-Bpt
+# Discord-Bot
 Der Discord Bot des Gaming Arcade Discords.
 
 Dieses Repository stellt einen Teil des Codes des Gaming Arcade Discords da.
